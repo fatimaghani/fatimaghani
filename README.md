@@ -14,6 +14,7 @@
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2>Certifications</h2>
+
 - [Security+](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 
