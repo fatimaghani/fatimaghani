@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Azure Sentinel Lab: Mapping Failed RDP Logins</b>
+  - [Azure Sentinel Lab](https://github.com/fatimaghani/AzureSentinelLab)
+- <b>Azure Vulnerability Management Lab: Assessing and Remediating Security Risks with OpenVAS</b>
+  - [Azure Vulnerability Management Lab](https://github.com/fatimaghani/VulnerabilityManagementLab)
 
 <h2>📺 Popular YouTube Videos</h2>
 
