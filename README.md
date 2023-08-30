@@ -12,10 +12,10 @@
 - [CompTIA Security+](https://www.credly.com/badges/5e3a3020-6dfc-4ead-bc12-2ab5e184ecf8/public_url)
 - [(ISC)² Candidate](https://www.credly.com/badges/43950ecd-1af7-4099-bc51-4c281e94d44f/public_url)
 
+<h2>🤳 Connect with me</h2>
 
-<h2> 🤳 Connect with me:</h2>
--  [LinkedIn💬](https://www.linkedin.com/in/fatima-ghani)
--  [Email📫](fatimaghani51@gmail.com)
+- [LinkedIn💬](https://www.linkedin.com/in/fatima-ghani)
+- [Email📫](mailto:fatimaghani51@gmail.com)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
