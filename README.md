@@ -6,6 +6,8 @@
   - [Azure Sentinel Lab](https://github.com/fatimaghani/AzureSentinelLab)
 - <b>Azure Vulnerability Management Lab: Assessing and Remediating Security Risks with OpenVAS</b>
   - [Azure Vulnerability Management Lab](https://github.com/fatimaghani/VulnerabilityManagementLab)
+- <b>Active Directory Lab: Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell</b>
+  - [Active Directory Lab](https://github.com/fatimaghani/ActiveDirectoryWin10)
 
 <h2>Certifications</h2>
 
