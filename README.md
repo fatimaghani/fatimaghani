@@ -12,6 +12,7 @@
 <h2>Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/5e3a3020-6dfc-4ead-bc12-2ab5e184ecf8/public_url)
+- [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/en-us/users/fatimaghani-1612/credentials/a954ba9c16e5c529)
 - [(ISC)² Candidate](https://www.credly.com/badges/43950ecd-1af7-4099-bc51-4c281e94d44f/public_url)
 
 <h2>🤳 Connect with me</h2>
